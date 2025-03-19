@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Denis T</title>
+      <link>https://dotereschenko.github.io/quartz_website</link>
+      <description>Last 10 notes on Denis T</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Notes</title>
+    <link>https://dotereschenko.github.io/quartz_website/notes/</link>
+    <guid>https://dotereschenko.github.io/quartz_website/notes/</guid>
+    <description>Notes My digital garden of ideas, concepts, and knowledge.</description>
+    <pubDate>Wed, 19 Mar 2025 12:01:29 GMT</pubDate>
+  </item><item>
+    <title>Curriculum Vitae</title>
+    <link>https://dotereschenko.github.io/quartz_website/cv/</link>
+    <guid>https://dotereschenko.github.io/quartz_website/cv/</guid>
+    <description> 📄 Download Full CV (PDF) ← Back to Home.</description>
+    <pubDate>Wed, 19 Mar 2025 12:01:19 GMT</pubDate>
+  </item><item>
+    <title>Projects</title>
+    <link>https://dotereschenko.github.io/quartz_website/projects/</link>
+    <guid>https://dotereschenko.github.io/quartz_website/projects/</guid>
+    <description>Active Projects TABLE status as &quot;Status&quot;, tech as &quot;Technology&quot;, description as &quot;Description&quot; FROM &quot;projects&quot; WHERE status = &quot;active&quot; AND file.name != &quot;index&quot; SORT date DESC Completed Projects TABLE status as &quot;Status&quot;, tech as &quo...</description>
+    <pubDate>Wed, 19 Mar 2025 12:01:10 GMT</pubDate>
+  </item><item>
+    <title>Blog</title>
+    <link>https://dotereschenko.github.io/quartz_website/blog/</link>
+    <guid>https://dotereschenko.github.io/quartz_website/blog/</guid>
+    <description>Recent Posts TABLE date as &quot;Date&quot;, description as &quot;Description&quot; FROM &quot;blog&quot; WHERE file.name != &quot;index&quot; SORT date DESC LIMIT 10 Topics LIST FROM &quot;blog&quot; WHERE file.name != &quot;index&quot; GROUP BY tags ← Back to Home.</description>
+    <pubDate>Wed, 19 Mar 2025 12:01:03 GMT</pubDate>
+  </item><item>
+    <title>Home</title>
+    <link>https://dotereschenko.github.io/quartz_website/</link>
+    <guid>https://dotereschenko.github.io/quartz_website/</guid>
+    <description>Welcome to My Digital Garden This is my personal knowledge base and portfolio built with Quartz.</description>
+    <pubDate>Wed, 19 Mar 2025 10:46:08 GMT</pubDate>
+  </item><item>
+    <title>Sample Blog Post</title>
+    <link>https://dotereschenko.github.io/quartz_website/blog/sample-post</link>
+    <guid>https://dotereschenko.github.io/quartz_website/blog/sample-post</guid>
+    <description>A sample blog post to demonstrate Quartz formatting</description>
+    <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Sample Project</title>
+    <link>https://dotereschenko.github.io/quartz_website/projects/sample-project</link>
+    <guid>https://dotereschenko.github.io/quartz_website/projects/sample-project</guid>
+    <description>A sample project to demonstrate project documentation</description>
+    <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
