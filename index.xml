@@ -21,13 +21,13 @@
     <title>Projects</title>
     <link>https://dotereschenko.github.io/quartz_website/projects/</link>
     <guid>https://dotereschenko.github.io/quartz_website/projects/</guid>
-    <description>Active Projects TABLE status as &quot;Status&quot;, tech as &quot;Technology&quot;, description as &quot;Description&quot; FROM &quot;projects&quot; WHERE status = &quot;active&quot; AND file.name != &quot;index&quot; SORT date DESC Completed Projects TABLE status as &quot;Status&quot;, tech as &quo...</description>
+    <description>Active Projects Project Status Technology Description Sample Project active JavaScript, React, Node.js A sample project to demonstrate project documentation Completed Projects Project Status Technology Completion Date Description ← Back to Home.</description>
     <pubDate>Wed, 19 Mar 2025 12:01:10 GMT</pubDate>
   </item><item>
     <title>Blog</title>
     <link>https://dotereschenko.github.io/quartz_website/blog/</link>
     <guid>https://dotereschenko.github.io/quartz_website/blog/</guid>
-    <description>Recent Posts TABLE date as &quot;Date&quot;, description as &quot;Description&quot; FROM &quot;blog&quot; WHERE file.name != &quot;index&quot; SORT date DESC LIMIT 10 Topics LIST FROM &quot;blog&quot; WHERE file.name != &quot;index&quot; GROUP BY tags ← Back to Home.</description>
+    <description>Recent Posts Title Date Description Sample Blog Post 2024-03-19 A sample blog post to demonstrate Quartz formatting Topics blog Sample Blog Post sample Sample Blog Post ← Back to Home.</description>
     <pubDate>Wed, 19 Mar 2025 12:01:03 GMT</pubDate>
   </item><item>
     <title>Home</title>
